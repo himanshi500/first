@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 1em;
+  text-decoration: none;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 1em;
+}
+
+.product {
+  border: 1px solid #ddd;
+  padding: 1em;
+  margin: 1em;
+  text-align: center;
+}
+
+button {
+  background-color: #333;
+  color: white;
+  padding: 0.5em;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #555;
+}
